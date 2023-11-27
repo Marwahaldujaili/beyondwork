@@ -1,4 +1,5 @@
-# BeyondWorK 
+# BeyondWork
+![logo](./client/src/images/Logo_green-small.png)
 
 BeyondWord is MERN stack group project, developed by four junior developers as a part of the Final Project of the DCI Further Training as a Web & Software Developer. 
 
@@ -7,14 +8,14 @@ Beyond Work is a platform for employees to connect on a personal level.
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Beyondwork Developers](#beyondwork-developers)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshot](#screenshot)
+
 
 ## Introduction
 
@@ -28,9 +29,13 @@ On top of that, companies usually rely on mere chat tools for internal communica
 
 Beyond Work, that looks and works more like a social media, is meant to fill the gap between employees and help them connect and bond.
 
-## Features
+# Beyondwork Developers
+- Netta Barel - https://github.com/Netta8
+- Elena Armaroli - https://github.com/elenarmaroli
+- Iryna Khartanovich - https://github.com/statuja
+- Marwah Al-Dujaili - https://github.com/Marwahaldujaili
 
-Highlight the main features of your project. You can use bullet points for better readability:
+## Features
 
 - Company and Admin Registration and User creation
 - Administrator role to add/remove users, manage the company profile
@@ -46,34 +51,19 @@ Highlight the main features of your project. You can use bullet points for bette
 
 ## Requirements
 
-Specify the requirements to run your project:
-
 - Node.js
 - MongoDB
 - npm install
 - To run client side: npm start
 - To run server side: nodemon app.js / npm start
 
-## Installation
-
-Provide step-by-step instructions on how to install and set up your project. Include any necessary configuration steps. For example:
-
-1. Clone the repository: `git clone https://github.com/yourusername/your-project.git`
-2. Navigate to the project directory: `cd your-project`
-3. Install dependencies: `npm install`
-4. Configure environment variables (if applicable).
-5. ...
-
 ## Usage
-
-Explain how to use your application. Include any commands, scripts, or endpoints that users should be aware of. For example:
 
 - Run the development server: `npm run dev`
 - Access the application at `http://localhost:3000`
+- Find the deployed version [here](https://beyondworkclient.onrender.com/)
 
 ## Technologies Used
-
-List the technologies and frameworks we used in our project:
 
 - MongoDB
 - Express.js
@@ -94,11 +84,14 @@ List the technologies and frameworks we used in our project:
 
 ## Project Structure
 
-Briefly explain the organization of your project's code. For example:
-
 - `client/`: Contains the frontend React code.
 - `server/`: Contains the backend Express.js code.
 
+## Screenshot
+Here, you can see the sleek and user-friendly interface of the Newsfeed once logged into BeyondWork. The function to create a post and add an image are easily accessible, providing a smooth and enjoyable user experience, together with the right-side menu displaying all the features and experiences offered by our platform. 
 
-# beyondwork
+![Screenshot](./server/public/snapshot.png)
+
+
+
 
